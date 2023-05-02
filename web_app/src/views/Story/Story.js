@@ -7,6 +7,7 @@ import GraphRepartitionCategory from "../../images/Repartition_lecture_categorie
 import GraphCompletionCategory from "../../images/Completion_lecture_categorie.png";
 import PeintureLascaux from "../../images/PeintureLascaux.jpg";
 import FontBookBackground from "../../components/FontBookBackground/FontBookBackground"
+import FontTextBackground from "../../components/FontTextBackground/FontTextBackground"
 
 
 import Modal from "../../components/Modal/Modal";
@@ -37,6 +38,13 @@ function Story() {
 
             <Image image={GraphRepartitionCategory} legend="Répartition des catégories de livre lu, depuis les données d'un sondage de l'IPSOS" /><br></br>
             <Image image={GraphCompletionCategory} legend="Répartition de la complétion des livres par catégorie, depuis les données d'un sondage de l'IPSOS" /><br></br>
+
+            <Wave text={"Beaucoup de lecteur, oui... Mais à quel prix?"} _class="margin_top" ></Wave>
+            <div className="section" name="section3">
+                <div>
+                    <FontTextBackground description="Genre, âge, expérience, goût, catégorie de livre ... Il est impossible d'estimer le nombre de livre qui pourraient convenir à un unique individu, mais il est possible de trouver un livre qui pourrait convenir à ses goûts" main="Une histoire rien que pour vous" description_modal="📚 Quelques catégories ! 📚" onClick={() => setIsOpen(true)}></FontTextBackground>
+                </div>
+            </div>
             [Mettre des graphiques sur les types de personnes qui lisent, femme, homme, âge si possible, type du livre etc] < br ></br > <br></br>
 
             Le problème qui se pose très souvent est de trouver le livre qui nous conviendra à partir de nos critères de sélection.< br ></br > <br></br>

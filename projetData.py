@@ -5,7 +5,7 @@ import seaborn as snscle
 
 
 # Chargement des données à partir d'un fichier CSV
-df_final = pd.read_csv(r'C:\Users\User\Downloads\projetData/df_final.csv')
+df_final = pd.read_csv("./Data/projetData/df_final.csv")
 df_final2 = pd.read_csv(r'C:\Users\User\Downloads\projetData/df_final2.csv')
 df_final22 = pd.read_csv(r'C:\Users\User\Downloads\projetData/df_final22.csv')
 merged_df = pd.read_csv(r'C:\Users\User\Downloads\projetData/merged_df.csv')

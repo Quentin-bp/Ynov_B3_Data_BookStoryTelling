@@ -1,20 +1,19 @@
 import React from 'react';
-import WaveImg from "../../images/wave.png";
-import "./Wave.css"
-function Wave({ text, description_modal, onClick, _class }) {
-    const classNamePrefix = "wave_main ";
+import "./FontTextBackground.css"
+import FontText from '../../images/text_font.jpg'
+function FontTextBackground({ description, main, description_modal, onClick }) {
+    const classNamePrefix = "font_text_main ";
 
     return (
-        <div className={"wave_container " + _class}>
-            <img src={WaveImg}></img>
-            <div className="wave_text_container">
-                {text}
-                <br></br>
-                <br></br>
-                {
-                    description_modal &&
+        <>
+            <div className={classNamePrefix}>
+                <img src={FontText} /><br></br>
+                <div className="text_container">{description} <br></br><br></br>
+                    <span className="title">{main} </span>
+                    {
 
-                        <div className="button button--piyo" style={{ scale: "0.8" }} onClick={onClick}>
+                        description_modal &&
+                        <div className="button button--piyo" style={{ scale: "0.8", left: "75px", top: "50px" }} onClick={onClick}>
                             <div className="button__wrapper">
                                 <span className="button__text">{description_modal}</span>
                             </div>
@@ -30,19 +29,12 @@ function Wave({ text, description_modal, onClick, _class }) {
                                 </div>
                             </div>
                         </div>
-                }
-
-                {/* 
-                        <button className="button-story" role="button" onClick={onClick}>
-                    description_modal
-                </button>
-    */}
-
+                    }
+                </div>
             </div>
 
-
-        </div>
+        </>
     );
 };
 
-export default Wave;
+export default FontTextBackground;
