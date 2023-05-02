@@ -1,5 +1,4 @@
 import './MainPage.css';
-
 function MainPage({children}) {
     return (
         <div className="background-page">

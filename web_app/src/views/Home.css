@@ -2,3 +2,10 @@ input.checkbox{
     width: 20px;
     height: 20px;
 }
+
+.main_container{
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 50px;
+  
+}

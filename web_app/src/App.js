@@ -19,13 +19,13 @@ function App() {
   }
 
   return (
-    <Router>
-      <Routes>
-        {
-          routes.map((route, index) => buildRoute(route, index))
-        }
-      </Routes>
-    </Router>
+      <Router>
+        <Routes>
+          {
+            routes.map((route, index) => buildRoute(route, index))
+          }
+        </Routes>
+      </Router>
   );
 }
 
