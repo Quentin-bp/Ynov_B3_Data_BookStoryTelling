@@ -1,0 +1,101 @@
+.button {
+    padding: 0 30px;
+    border: 0;
+    margin: 0;
+    min-height: 40px;
+    height: 40px;
+    font-size: 16px;
+    font-family: "Nunito", sans-serif;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    text-decoration: none;
+    outline: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.button.validate {
+    color: var(--main);
+    background-color: #fff;
+    border: 1px solid var(--main);
+}
+
+.button.validate:hover, .button.table:hover {
+    color: var(--white);
+    background-color: var(--main) !important;
+}
+
+.button.cancel {
+    color: var(--pink);
+    background-color: #fff;
+    border: 1px solid var(--pink);
+} 
+
+.button.cancel:hover {
+    color: var(--white);
+    background-color: var(--pink) !important;
+}
+
+.button:disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.button.full-width {
+    width: 100%;
+}
+
+.button.table {
+    cursor: pointer;
+    color: var(--main);
+    border-radius: 10px;
+    padding: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    background-color: #fff;
+    border: 1px solid var(--main);
+    display: flex;
+    margin: 0 10px;
+    transition: 0.5s;
+    min-height: unset !important;
+    font-size: 14px !important;
+    height: inherit !important;
+}
+
+.button_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button.add {
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    width: 30px;
+    height: 31px;
+    min-height: 31px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: white;
+    font-weight: bold;
+    font-size: 26px;
+    color: var(--main);
+    border: 1px solid var(--main);
+    transition: 0.5s;
+}
+
+.button.add:hover {
+    background-color: var(--main);
+    color: white;
+}
