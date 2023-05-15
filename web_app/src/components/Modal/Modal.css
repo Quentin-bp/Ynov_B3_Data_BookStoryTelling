@@ -56,6 +56,11 @@
     text-align: center;
 }
 
+.modalContent .legend_modal{
+    white-space: pre-wrap;
+    margin-top: 10px;
+}
+
 .modalActions {
     position: absolute;
     bottom: 2px;

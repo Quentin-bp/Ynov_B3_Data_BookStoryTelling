@@ -24,7 +24,7 @@
     justify-items: center;
 
     grid-gap: 75px;
-
+    white-space: pre-wrap;
 }
 
 .margin_top{

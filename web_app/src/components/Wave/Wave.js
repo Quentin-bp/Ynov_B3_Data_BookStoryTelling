@@ -1,6 +1,7 @@
 import React from 'react';
 import WaveImg from "../../images/wave.png";
 import "./Wave.css"
+import Button from '../UI/Button_/Button';
 function Wave({ text, description_modal, onClick, _class }) {
     const classNamePrefix = "wave_main ";
 
@@ -13,7 +14,9 @@ function Wave({ text, description_modal, onClick, _class }) {
                 <br></br>
                 {
                     description_modal &&
+                    <Button onClick={onClick} label={description_modal}></Button>
 
+                    /*
                         <div className="button button--piyo" style={{ scale: "0.8" }} onClick={onClick}>
                             <div className="button__wrapper">
                                 <span className="button__text">{description_modal}</span>
@@ -30,6 +33,7 @@ function Wave({ text, description_modal, onClick, _class }) {
                                 </div>
                             </div>
                         </div>
+                        */
                 }
 
                 {/* 

@@ -1,0 +1,4002 @@
+[
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 63,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Han",
+        "Age": 59,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 22,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Republic",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 75,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James",
+        "Age": 47,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 49,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Leia",
+        "Age": 77,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 72,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Tony",
+        "Age": 48,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Han",
+        "Age": 16,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Harry",
+        "Age": 30,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Mr.",
+        "Age": 67,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James T.",
+        "Age": 24,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 26,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 32,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 36,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Jean-Luc",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 22,
+        "Sexe": "Homme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 32,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 77,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Leia",
+        "Age": 50,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Lean Startup",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Luke",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 51,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James",
+        "Age": 21,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Mr.",
+        "Age": 59,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Shining",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Luke",
+        "Age": 78,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 13,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Obi-Wan",
+        "Age": 48,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Jean-Luc",
+        "Age": 17,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 66,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 13,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Mr.",
+        "Age": 32,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Luke",
+        "Age": 69,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 35,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James T.",
+        "Age": 71,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Harry",
+        "Age": 40,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 41,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Jean-Luc",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 18,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Jean-Luc",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Obi-Wan",
+        "Age": 79,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Luke",
+        "Age": 45,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 34,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Luke",
+        "Age": 54,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 74,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Mr.",
+        "Age": 32,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James T.",
+        "Age": 36,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Mr.",
+        "Age": 51,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James T.",
+        "Age": 74,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 50,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 12,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 39,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Luke",
+        "Age": 72,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Luke",
+        "Age": 27,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Han",
+        "Age": 19,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James",
+        "Age": 74,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Jean-Luc",
+        "Age": 62,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Tony",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Obi-Wan",
+        "Age": 61,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 75,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 16,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 45,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Mr.",
+        "Age": 37,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 80,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 46,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Tony",
+        "Age": 52,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James",
+        "Age": 17,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Leia",
+        "Age": 67,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Luke",
+        "Age": 52,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Han",
+        "Age": 33,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James",
+        "Age": 39,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Mr.",
+        "Age": 44,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James",
+        "Age": 48,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 46,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Obi-Wan",
+        "Age": 62,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Leia",
+        "Age": 75,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Shining",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Jean-Luc",
+        "Age": 41,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 78,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 43,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 55,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Harry",
+        "Age": 51,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Harry",
+        "Age": 57,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Obi-Wan",
+        "Age": 18,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Leia",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 64,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Mr.",
+        "Age": 35,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Mr.",
+        "Age": 39,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Obi-Wan",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Mr.",
+        "Age": 79,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Luke",
+        "Age": 49,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Shining",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 42,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 17,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 62,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James",
+        "Age": 57,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 17,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Han",
+        "Age": 78,
+        "Sexe": "Femme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 35,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 20,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Mr.",
+        "Age": 22,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Han",
+        "Age": 67,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 41,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Leia",
+        "Age": 54,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Republic",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James",
+        "Age": 28,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Harry",
+        "Age": 27,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Mr.",
+        "Age": 58,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Tony",
+        "Age": 17,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Tony",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Jean-Luc",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 16,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James",
+        "Age": 27,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Harry",
+        "Age": 26,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 77,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 72,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Mr.",
+        "Age": 47,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Han",
+        "Age": 34,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Tony",
+        "Age": 23,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Harry",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Jean-Luc",
+        "Age": 20,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 70,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Luke",
+        "Age": 54,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Tony",
+        "Age": 65,
+        "Sexe": "Femme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 35,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Mr.",
+        "Age": 47,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 23,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Leia",
+        "Age": 14,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 50,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Luke",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 22,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 76,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Mr.",
+        "Age": 76,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Harry",
+        "Age": 27,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Mr.",
+        "Age": 76,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 67,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James T.",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Jean-Luc",
+        "Age": 14,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 34,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 57,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 14,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Jean-Luc",
+        "Age": 80,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 76,
+        "Sexe": "Homme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Harry",
+        "Age": 35,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Shining",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James",
+        "Age": 53,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Shining",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Leia",
+        "Age": 39,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Republic",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 19,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James",
+        "Age": 60,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 49,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 72,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 43,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Leia",
+        "Age": 54,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James",
+        "Age": 68,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James",
+        "Age": 34,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 35,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Obi-Wan",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 79,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Leia",
+        "Age": 57,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 45,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Republic",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 71,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Brave New World",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 49,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James",
+        "Age": 58,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Harry",
+        "Age": 42,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Han",
+        "Age": 39,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Leia",
+        "Age": 60,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Luke",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Tony",
+        "Age": 60,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Luke",
+        "Age": 79,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Tony",
+        "Age": 16,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Luke",
+        "Age": 55,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James T.",
+        "Age": 39,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 55,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 73,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Leia",
+        "Age": 52,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 61,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 29,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James",
+        "Age": 21,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 25,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Tony",
+        "Age": 29,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 29,
+        "Sexe": "Homme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James",
+        "Age": 80,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Leia",
+        "Age": 12,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Mr.",
+        "Age": 30,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 43,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James T.",
+        "Age": 68,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James",
+        "Age": 43,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Mr.",
+        "Age": 78,
+        "Sexe": "Femme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Leia",
+        "Age": 34,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Brave New World",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Mr.",
+        "Age": 39,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 27,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Mr.",
+        "Age": 52,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 58,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Han",
+        "Age": 38,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Harry",
+        "Age": 69,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 59,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Mr.",
+        "Age": 35,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James",
+        "Age": 69,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Luke",
+        "Age": 51,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Harry",
+        "Age": 60,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Luke",
+        "Age": 62,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James",
+        "Age": 47,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 58,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 52,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James",
+        "Age": 28,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Han",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 22,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Tony",
+        "Age": 26,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 73,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 29,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 65,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Brave New World",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 15,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 52,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 54,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lean Startup",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James",
+        "Age": 26,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Mr.",
+        "Age": 13,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James",
+        "Age": 57,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Jean-Luc",
+        "Age": 44,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 20,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Tony",
+        "Age": 28,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Jean-Luc",
+        "Age": 13,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Obi-Wan",
+        "Age": 25,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 54,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 46,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Tony",
+        "Age": 14,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 50,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 12,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 20,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Han",
+        "Age": 56,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 33,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 72,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 71,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 71,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 29,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 19,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James",
+        "Age": 43,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Obi-Wan",
+        "Age": 74,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 61,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 73,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Obi-Wan",
+        "Age": 71,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 45,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James",
+        "Age": 64,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Mr.",
+        "Age": 77,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Tony",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 63,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 72,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Mr.",
+        "Age": 53,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Luke",
+        "Age": 16,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 75,
+        "Sexe": "Femme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James T.",
+        "Age": 14,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lean Startup",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 45,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Mr.",
+        "Age": 79,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Leia",
+        "Age": 51,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Leia",
+        "Age": 16,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Jean-Luc",
+        "Age": 26,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Han",
+        "Age": 32,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Tony",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 38,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 12,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 76,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Mr.",
+        "Age": 30,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Tony",
+        "Age": 23,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Leia",
+        "Age": 31,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Leia",
+        "Age": 43,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 26,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 26,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 74,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Obi-Wan",
+        "Age": 50,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Leia",
+        "Age": 16,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Han",
+        "Age": 59,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James T.",
+        "Age": 16,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James T.",
+        "Age": 27,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Leia",
+        "Age": 66,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 21,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James",
+        "Age": 67,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Mr.",
+        "Age": 58,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Luke",
+        "Age": 40,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Jean-Luc",
+        "Age": 51,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Jean-Luc",
+        "Age": 20,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James T.",
+        "Age": 39,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James",
+        "Age": 77,
+        "Sexe": "Femme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Mr.",
+        "Age": 78,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Obi-Wan",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 53,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 65,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Leia",
+        "Age": 63,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Leia",
+        "Age": 78,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 59,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 39,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Tony",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Obi-Wan",
+        "Age": 46,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Luke",
+        "Age": 47,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Leia",
+        "Age": 70,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Mr.",
+        "Age": 51,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 47,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 66,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 79,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 57,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James T.",
+        "Age": 33,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Tony",
+        "Age": 50,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Obi-Wan",
+        "Age": 18,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 13,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 41,
+        "Sexe": "Femme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Tony",
+        "Age": 47,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James",
+        "Age": 45,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 41,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Obi-Wan",
+        "Age": 80,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James",
+        "Age": 63,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 78,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Mr.",
+        "Age": 24,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Han",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Han",
+        "Age": 74,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 79,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Mr.",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James",
+        "Age": 42,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Jean-Luc",
+        "Age": 27,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Han",
+        "Age": 54,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 14,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 26,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 24,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 23,
+        "Sexe": "Homme",
+        "Livre_Prefere": "1984",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 68,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 41,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Harry",
+        "Age": 32,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Tony",
+        "Age": 74,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James T.",
+        "Age": 51,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Game of Thrones",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 45,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Harry",
+        "Age": 73,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 43,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Tony",
+        "Age": 29,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Han",
+        "Age": 34,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James T.",
+        "Age": 27,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 40,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Harry",
+        "Age": 28,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 59,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 65,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Han",
+        "Age": 40,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Obi-Wan",
+        "Age": 32,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Leia",
+        "Age": 24,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 68,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 33,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 18,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James",
+        "Age": 30,
+        "Sexe": "Homme",
+        "Livre_Prefere": "One Hundred Years of Solitude",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 66,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 51,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James",
+        "Age": 52,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 80,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Luke",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Harry",
+        "Age": 68,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Harry",
+        "Age": 42,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 72,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 27,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Obi-Wan",
+        "Age": 14,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James",
+        "Age": 17,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 28,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Tony",
+        "Age": 64,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Han",
+        "Age": 45,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Jean-Luc",
+        "Age": 17,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Luke",
+        "Age": 73,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Mr.",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Obi-Wan",
+        "Age": 56,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Luke",
+        "Age": 46,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 24,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Luke",
+        "Age": 34,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Harry",
+        "Age": 74,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James",
+        "Age": 49,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Jean-Luc",
+        "Age": 18,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Mr.",
+        "Age": 77,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Brave New World",
+        "Genre_Prefere": "Dystopian"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James",
+        "Age": 12,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 16,
+        "Sexe": "Homme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Luke",
+        "Age": 14,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Jean-Luc",
+        "Age": 38,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Jean-Luc",
+        "Age": 18,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Han",
+        "Age": 43,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James",
+        "Age": 74,
+        "Sexe": "Femme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Leia",
+        "Age": 13,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Lean Startup",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Tony",
+        "Age": 22,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Harry",
+        "Age": 55,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Tony",
+        "Age": 16,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 47,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James",
+        "Age": 54,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Rights of Man",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James T.",
+        "Age": 44,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 44,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Tony",
+        "Age": 76,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 75,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 29,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 58,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Han",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Jean-Luc",
+        "Age": 31,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 59,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Tony",
+        "Age": 70,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James T.",
+        "Age": 77,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "James",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 46,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Han",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Jean-Luc",
+        "Age": 42,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James",
+        "Age": 47,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James",
+        "Age": 23,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Harry",
+        "Age": 50,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Jean-Luc",
+        "Age": 16,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James T.",
+        "Age": 65,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Republic",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Leia",
+        "Age": 36,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Harry",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Jean-Luc",
+        "Age": 55,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James",
+        "Age": 38,
+        "Sexe": "Femme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Tony",
+        "Age": 15,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Das Kapital",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 39,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Beloved",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Mr.",
+        "Age": 79,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Harry",
+        "Age": 33,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 26,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Han",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Han",
+        "Age": 70,
+        "Sexe": "Femme",
+        "Livre_Prefere": "To Kill a Mockingbird",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "James T.",
+        "Age": 59,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "James",
+        "Age": 45,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Luke",
+        "Age": 15,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 13,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Leia",
+        "Age": 50,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 30,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "James",
+        "Age": 79,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Luke",
+        "Age": 23,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James",
+        "Age": 72,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Pride and Prejudice",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 15,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 44,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Tony",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Han",
+        "Age": 69,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Obi-Wan",
+        "Age": 76,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Han",
+        "Age": 60,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Tony",
+        "Age": 15,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Obi-Wan",
+        "Age": 76,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 52,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Good to Great",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Jean-Luc",
+        "Age": 47,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Han",
+        "Age": 26,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James T.",
+        "Age": 48,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Harry",
+        "Age": 13,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Leia",
+        "Age": 31,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Selfish Gene",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Leia",
+        "Age": 76,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Luke",
+        "Age": 50,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Lord of the Rings",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Luke",
+        "Age": 44,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Prince",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "James T.",
+        "Age": 64,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Jean-Luc",
+        "Age": 69,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Social Contract",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Luke",
+        "Age": 78,
+        "Sexe": "Homme",
+        "Livre_Prefere": "A Brief History of Time",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Han",
+        "Age": 52,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James",
+        "Age": 63,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 17,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "James T.",
+        "Age": 80,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James",
+        "Age": 76,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Luke",
+        "Age": 37,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Picture of Dorian Gray",
+        "Genre_Prefere": "Gothic Fiction"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Tony",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Feynman Lectures on Physics",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Luke",
+        "Age": 62,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "Han",
+        "Age": 42,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 73,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Mr.",
+        "Age": 34,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The 7 Habits of Highly Effective People",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "James",
+        "Age": 35,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Federalist Papers",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Leia",
+        "Age": 75,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lean Startup",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Luke",
+        "Age": 13,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Iliad",
+        "Genre_Prefere": "Classics"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Han",
+        "Age": 49,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Harry",
+        "Age": 39,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Han",
+        "Age": 51,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Grand Design",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Obi-Wan",
+        "Age": 59,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "James T.",
+        "Age": 47,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Bible",
+        "Genre_Prefere": "BIBLES"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Harry",
+        "Age": 34,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Hunger Games",
+        "Genre_Prefere": "Sci-Fi"
+    },
+    {
+        "Nom": "Skywalker",
+        "Prenom": "Han",
+        "Age": 68,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Communist Manifesto",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Mr.",
+        "Age": 41,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Leia",
+        "Age": 36,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Da Vinci Code",
+        "Genre_Prefere": "Art"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Jean-Luc",
+        "Age": 35,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Luke",
+        "Age": 70,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Road",
+        "Genre_Prefere": "Post-apocalyptic"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Mr.",
+        "Age": 19,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Catcher in the Rye",
+        "Genre_Prefere": "Literary Fiction"
+    },
+    {
+        "Nom": "Leia",
+        "Prenom": "Harry",
+        "Age": 43,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Wealth of Nations",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Obi-Wan",
+        "Age": 26,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Structure of Scientific Revolutions",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Tony",
+        "Age": 30,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Republic",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Leia",
+        "Age": 19,
+        "Sexe": "Homme",
+        "Livre_Prefere": "Think and Grow Rich",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Harry",
+        "Age": 68,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Harry Potter and the Philosopher's Stone",
+        "Genre_Prefere": "Fantasy"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 17,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Art of War",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Bond",
+        "Prenom": "James T.",
+        "Age": 68,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Hitchhiker's Guide to the Galaxy",
+        "Genre_Prefere": "Humor"
+    },
+    {
+        "Nom": "Kenobi",
+        "Prenom": "Obi-Wan",
+        "Age": 12,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Potter",
+        "Prenom": "Jean-Luc",
+        "Age": 53,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Origin of Species",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Harry",
+        "Age": 45,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Game of Thrones",
+        "Genre_Prefere": "FICTION"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "James T.",
+        "Age": 66,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Lean Startup",
+        "Genre_Prefere": "BUSINESS & ECONOMICS"
+    },
+    {
+        "Nom": "Picard",
+        "Prenom": "Leia",
+        "Age": 61,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Elegant Universe",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Spock",
+        "Prenom": "Leia",
+        "Age": 42,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Politics",
+        "Genre_Prefere": "POLITICAL SCIENCE"
+    },
+    {
+        "Nom": "Stark",
+        "Prenom": "Luke",
+        "Age": 49,
+        "Sexe": "Femme",
+        "Livre_Prefere": "The Great Gatsby",
+        "Genre_Prefere": "Fiction"
+    },
+    {
+        "Nom": "Kirk",
+        "Prenom": "Luke",
+        "Age": 62,
+        "Sexe": "Homme",
+        "Livre_Prefere": "The Double Helix",
+        "Genre_Prefere": "SCIENCE"
+    },
+    {
+        "Nom": "Solo",
+        "Prenom": "Luke",
+        "Age": 26,
+        "Sexe": "Femme",
+        "Livre_Prefere": "Dracula",
+        "Genre_Prefere": "Horror"
+    }
+]

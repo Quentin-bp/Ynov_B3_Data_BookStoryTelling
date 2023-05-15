@@ -54,7 +54,7 @@ function Home() {
     return (
         <>
             <Button classNameList="validate" label="Un peu d'histoire ?" onClick={() => { navigate("/story") }}></Button>
-            <Button classNameList="validate" label="Chercher un livre pour moi" onClick={() => { getAllGenres(); getAllLanguages(); }}></Button>
+            <Button classNameList="validate" label="Chercher un livre pour moi" onClick={() => { navigate("/search") }}></Button>
             { /* 
             <Button classNameList="validate" label="Liste auteurs" onClick={() => { getAllAuthors() }}></Button>
             <Button classNameList="validate" label="Liste livres" onClick={() => { getAllBooks() }}></Button>

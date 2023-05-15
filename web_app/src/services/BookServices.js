@@ -19,6 +19,10 @@ export default class BookServices {
     static searchBooks(params){
         return clientHelper.get("search/"+ params.content +"&maxResults=5&orderBy=newest&printType=books&langRestrict=" + params.langage)
     }
+
+    static getBooksWithData(data){
+        return clientHelper.post("search/", data)
+    }
     static handleError(error){
         console.error(error);
     }
