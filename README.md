@@ -90,4 +90,6 @@ You have to make the command : ```npm run start```
 Don't forget to make the command ```npm install``` the first time you install this project.
 Just wait and the app will open under one of your browser.
 
+If everything goes well, you will see the Home Page of the app :
+
 ![Home Page](image_app/Homepage.png)
