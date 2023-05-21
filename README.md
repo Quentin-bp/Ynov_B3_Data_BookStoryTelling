@@ -89,4 +89,4 @@ You have to make the command : ```npm run start```
 
 Don't forget to make the command ```npm install``` the first time you install this project.
 Just wait and the app will open under one of your browser.
-![alt text](./image_app/Homepage.png "Home Page")
+![Home Page](image_app/Homepage.png)
