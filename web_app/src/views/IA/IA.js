@@ -60,7 +60,7 @@ function Search() {
             <Image image={CoutModel} legend="Fonction de perte du modèle" classNameList="space_picture" />
             <div className="section" name="section2">
                 <div>
-                    <FontBookBackground description={"Les résultats obtenues par la suite ne sont malheureusement pas exploitables."} main={"Nous espérons vous avoir \n cultivé sur ce thème !"} description_modal="📚 Résultat peu probant 📚" onClick={() => setIsOpenResult(true)}></FontBookBackground>
+                    <FontBookBackground description={"Les résultats obtenus par la suite ne sont malheureusement pas exploitables."} main={"Nous espérons vous avoir \n cultivé sur ce thème !"} description_modal="📚 Résultat peu probant 📚" onClick={() => setIsOpenResult(true)}></FontBookBackground>
                 </div>
             </div>
             {isOpenResult && <Modal setIsOpen={setIsOpenResult} title={"Tableau de corrélation des valeurs prédites et réelles"} img={Result} legend={"Résultats lors de la prédiction avec les valeurs de test : peu exploitable"} />}

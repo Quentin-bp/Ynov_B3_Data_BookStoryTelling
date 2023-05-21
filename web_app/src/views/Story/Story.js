@@ -40,7 +40,7 @@ function Story() {
                     <FontBookBackground description="En 2010, d'après les études de Google, il n'existerait pas moins de :" main="130 millions de livres uniques"></FontBookBackground>
                 </div>
             </div>
-            <Wave text={"Évidemment, ce sont des chiffres estimatifs et à l'heure de la digitalisation et d'internet, il est fort probable que ce nombre soit déjà bien supérieur. \n Aujourd'hui, il existe également énormément de lecteurs, que ça soit occasionnel ou aguérie, et pour n'importe quel type de lecture"}></Wave>
+            <Wave text={"Évidemment, ce sont des chiffres estimatifs et à l'heure de la digitalisation et d'internet, il est fort probable que ce nombre soit déjà bien supérieur. \n Aujourd'hui, il existe également énormément de lecteurs, que ça soit occasionnels ou aguéris, et pour n'importe quel type de lecture"}></Wave>
             <br></br><br></br>
 
             <Image image={GraphRepartitionCategory} legend="Répartition des catégories de livre lu, depuis les données d'un sondage de l'IPSOS" /><br></br>

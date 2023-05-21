@@ -52,7 +52,6 @@ function Search() {
     }
     const onSubmit = async () => {
         let result = "";
-        console.log(inputResearch)
         if (inputResearch != "") {
             result = await BookServices.getBooksWithResearch({
                 labels: inputResearch
@@ -86,6 +85,11 @@ function Search() {
     }
 
     useEffect(() => {
+
+        if ( languagesPick == "" || genresPick == ""){// si pas de selection,
+            if (inputResearch == "") return;
+        };
+        
         bookEndRef.current?.scrollIntoView({ behavior: 'smooth' });
     }, [suggestions]);
 
