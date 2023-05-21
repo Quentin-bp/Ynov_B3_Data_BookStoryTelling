@@ -90,4 +90,4 @@ You have to make the command : ```npm run start```
 Don't forget to make the command ```npm install``` the first time you install this project.
 Just wait and the app will open under one of your browser.
 
-<img src="image_app/Homepage.png"  style="float: left; margin-right: 10px;" />
+<img src="./image_app/Homepage.png"  style="float: left; margin-right: 10px;" />
