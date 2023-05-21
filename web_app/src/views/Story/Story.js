@@ -6,7 +6,7 @@ import Wave from "../../components/Wave/Wave"
 
 import GraphRepartitionCategory from "../../images/Repartition_lecture_categorie.png";
 import GraphCompletionCategory from "../../images/Completion_lecture_categorie.png";
-import GraphRepartitionAge from "../../images/repartition_age.png";
+import GraphRepartitionAge from "../../images/repartition_age_colored.png";
 import GraphRepartitionCategoryMen from "../../images/categorie_lecture_homme.png";
 import GraphRepartitionCategoryWomen from "../../images/categorie_lecture_femme.png";
 import PeintureLascaux from "../../images/PeintureLascaux.jpg"
@@ -64,7 +64,7 @@ function Story() {
             {isOpenWoman && <Modal setIsOpen={setIsOpenWoman} title={"Les pratiques et art de vivre !"} img={GraphRepartitionCategoryWomen} legend={"Et non, ce ne sont pas les romans comme beaucoup le pense ! \n \nGraphique construit depuis les données de l'IPSOS"} imgClass="woman_repart" />}
             <div className="section" name="section4">
                 <div>
-                    <FontBookBackground description={"Il y a tellement de facteur à prendre en compte... \n C'est pour cela qu'on peut dire qu'il existe forcément un livre qui vous \n conviendra à la perfection !"} main={"Même sans chercher \nvous pouvez trouver !"} description_modal="📚 Quelques facteurs ! 📚" onClick={() => setIsOpenMentalCard(true)}></FontBookBackground>
+                    <FontBookBackground description={"Il y a tellement de facteur à prendre en compte... \n C'est pour cela qu'on peut dire qu'il existe forcément un livre qui vous \n conviendra à la perfection !"} main={"Même sans chercher \nvous pouvez trouver !"}></FontBookBackground>
                 </div>
             </div>
             {

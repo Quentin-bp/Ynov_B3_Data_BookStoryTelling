@@ -10,7 +10,7 @@ import BookServices from "../../services/BookServices"
 
 import Modal from "../../components/Modal/Modal";
 
-import Button from "../../components/UI/Button_/Button";
+import Button from "../../components/UI/Button/Button";
 
 function Search() {
 
@@ -18,12 +18,8 @@ function Search() {
 
     const navigate = useNavigate();
 
-    /*
-    const [age, setAge] = useState("20");
-    const [genre, setGenre] = useState("f");
-    */
+    const [inputResearch, setInputResearch] = useState("")
     const [genres, setGenres] = useState("");
-    const [authors, setAuthors] = useState("")
     const [languages, setLanguages] = useState("")
     const [languagesPick, setLanguagePick] = useState("")
     const [genresPick, setGenresPick] = useState("")
@@ -37,13 +33,8 @@ function Search() {
         let result = await BookServices.getLanguages();
         setLanguages(result)
     }
-    const getAllAuthors = async () => {
-        let result = await BookServices.getAuthors();
-        setAuthors(result)
-    }
 
     const setGenresPicked = (val) => {
-        console.log(val);
         if (!genresPick.includes(val)) {
             setGenresPick([...genresPick, val])
         }
@@ -60,19 +51,21 @@ function Search() {
         }
     }
     const onSubmit = async () => {
-        console.log({
-            //age: age,
-            //genre: genre,
-            genres: genresPick,
-            languages: languagesPick
-        })
-        let result = await BookServices.getBooksWithData({
-            //age: age,
-            //genre: genre,
-            genres: genresPick,
-            languages: languagesPick
-        })
-
+        let result = "";
+        console.log(inputResearch)
+        if (inputResearch != "") {
+            result = await BookServices.getBooksWithResearch({
+                labels: inputResearch
+            })
+        }
+        else {
+            if (languagesPick == "" || genresPick == "") return;
+            result = await BookServices.getBooksWithData({
+                genres: genresPick,
+                languages: languagesPick
+            })
+            console.log(result);
+        }
         let removeDuplicates = [];
         result.items.forEach(element => {
             if (removeDuplicates.filter(e => e.volumeInfo.title === element.volumeInfo.title).length == 0) {
@@ -82,6 +75,16 @@ function Search() {
         setSuggestions(removeDuplicates);
 
     }
+
+    const handleKeyDown = (e, bool) => {
+        
+        e.preventDefault();
+        if (e.key === 'Enter' || bool == true) {
+            onSubmit();
+            return;
+        }
+    }
+
     useEffect(() => {
         bookEndRef.current?.scrollIntoView({ behavior: 'smooth' });
     }, [suggestions]);
@@ -91,7 +94,6 @@ function Search() {
     useEffect(() => {    // Met à jour le titre du document via l’API du navigateur
         getAllGenres()
         getAllLanguages()
-        getAllAuthors()
     }, []);
     return (
         <div className="main_container">
@@ -101,59 +103,31 @@ function Search() {
             <br></br><br></br>
 
             <Wave text={"Cherchons ensemble !"}></Wave>
-            <form className="form_search">
-                <div>
-                    {
+            <form className="form_search" onSubmit={ (e) => { handleKeyDown(e, true) }}>
 
-                        Array.isArray(authors) ?
-                            authors
-                            :
-                            null
-                    }
-                </div>
                 <br></br>
-                <div class="form_container">
-                    { /* 
-                    
-                                        <div class="row">
-                        <div class="col-25">
-                            <label>Age :</label>
+                <div className="form_container">
+                    <div className="row">
+                        <div className="col-25">
+                            <label>Une idée précise ? Entrez la !</label>
                         </div>
-                        <div class="col-75">
-                            <input type="number" onChange={(e) => setAge(e.target.value)} value={age} />
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label>Genre</label>
-                        </div>
-                        <div class="col-75">
+                        <div className="col-75" style={{ marginBottom: "25px" }}>
                             <div className="list_checkbox_container">
-                                <div class="col-75">
-                                    <select id="genre" name="genre" onChange={(e) => setGenre(e.target.value.toLowerCase())}>
-                                        <option value="f">Femme</option>
-                                        <option value="h">Homme</option>
-                                    </select>
-                                </div>
+                                <input type="text" onChange={(e) => setInputResearch(e.target.value)}></input>
                             </div>
                         </div>
                     </div>
-                    
-                    */
-
-                    }
-
-                    <div class="row">
-                        <div class="col-25">
+                    <div className="row">
+                        <div className="col-25">
                             <label>Genre(s) apprécié(s) :</label>
                         </div>
-                        <div class="col-75">
+                        <div className="col-75">
                             <div className="list_checkbox_container">
                                 {Array.isArray(genres) ?
                                     genres.map((genre, i) => {
                                         // Affichage
                                         return (
-                                            <div> <input key={genre + i} type="checkbox" id={genre + i} className="checkbox" onClick={() => setGenresPicked(genre)} />  <label key={genre + i + "lab"} htmlFor={genre + i}>{genre}</label> </div>
+                                            <div> <input key={genre + i} type="checkbox" id={genre + i} className="checkbox" onClick={() => setGenresPicked(genre)} onKeyDown={(e) => handleKeyDown(e)} />  <label key={genre + i + "lab"} htmlFor={genre + i}>{genre}</label> </div>
                                         )
                                     })
                                     :
@@ -163,11 +137,11 @@ function Search() {
                             </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-25">
+                    <div className="row">
+                        <div className="col-25">
                             <label>Langue(s)</label>
                         </div>
-                        <div class="col-75">
+                        <div className="col-75">
                             <div className="list_checkbox_container">
                                 {Array.isArray(languages) ?
                                     languages.map((language, i) => {
@@ -183,7 +157,7 @@ function Search() {
                         </div>
                     </div>
                     <div style={{ display: 'flex', justifyContent: 'center' }}>
-                        <div class="row" style={{ paddingTop: "100px" }}>
+                        <div className="row" style={{ paddingTop: "100px" }}>
                             <Button label="Voir le résultat" onClick={() => onSubmit()} />
                         </div>
                     </div>

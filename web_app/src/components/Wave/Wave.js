@@ -1,7 +1,7 @@
 import React from 'react';
 import WaveImg from "../../images/wave.png";
 import "./Wave.css"
-import Button from '../UI/Button_/Button';
+import Button from '../UI/Button/Button';
 function Wave({ text, description_modal, onClick, _class }) {
     const classNamePrefix = "wave_main ";
 

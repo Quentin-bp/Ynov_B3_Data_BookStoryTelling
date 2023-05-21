@@ -1,11 +1,25 @@
+
 import React from 'react';
 import "./Button.css"
-function Button ({label,onClick, className ,style,classNameList}) {
-    const classNamePrefix = "button ";
-
+function Button({ label, onClick}) {
     return (
         <>
-            <button style={style} className={classNamePrefix + classNameList} onClick={onClick}>{label}</button>
+            <div className="button button--piyo" style={{ scale: "0.8" }} onClick={onClick}>
+                <div className="button__wrapper">
+                    <span className="button__text">{label}</span>
+                </div>
+                <div className="characterBox">
+                    <div className="character wakeup">
+                        <div className="character__face"></div>
+                    </div>
+                    <div className="character wakeup">
+                        <div className="character__face"></div>
+                    </div>
+                    <div className="character">
+                        <div className="character__face"></div>
+                    </div>
+                </div>
+            </div>
         </>
     );
 };
@@ -13,8 +27,28 @@ function Button ({label,onClick, className ,style,classNameList}) {
 export default Button;
 
 Button.defaultProps = {
-    className : "validate",
-    type : "button",
-    disabled : false,
-    style : {}
+    className: "validate",
+    type: "button",
+    disabled: false,
+    style: {}
 }
+
+/*
+
+                        <div className="button button--piyo" style={{ scale: "0.8" }} onClick={onClick}>
+                            <div className="button__wrapper">
+                                <span className="button__text">{description_modal}</span>
+                            </div>
+                            <div className="characterBox">
+                                <div className="character wakeup">
+                                    <div className="character__face"></div>
+                                </div>
+                                <div className="character wakeup">
+                                    <div className="character__face"></div>
+                                </div>
+                                <div className="character">
+                                    <div className="character__face"></div>
+                                </div>
+                            </div>
+                        </div>
+                        */

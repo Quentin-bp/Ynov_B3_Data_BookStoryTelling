@@ -23,6 +23,11 @@ export default class BookServices {
     static getBooksWithData(data){
         return clientHelper.post("search/", data)
     }
+
+    static getBooksWithResearch(data){
+        console.log(clientHelper.post("research/", data))
+        return clientHelper.post("research/", data)
+    }
     static handleError(error){
         console.error(error);
     }

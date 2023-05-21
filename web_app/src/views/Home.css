@@ -9,3 +9,24 @@ input.checkbox{
     padding-top: 50px;
   
 }
+.home_page{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--beige);
+}
+
+.mochi_picture{
+    position: absolute;
+    left : 3%;
+    top : 55%;
+    width: 450px;
+}
+
+.mochi_slap_picture{
+    position: absolute;
+    right : 7%;
+    bottom : 65%;
+    width: 300px;
+}

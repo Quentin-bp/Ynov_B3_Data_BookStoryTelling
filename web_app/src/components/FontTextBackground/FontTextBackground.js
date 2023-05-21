@@ -9,11 +9,11 @@ function FontTextBackground({ description, main, description_modal, onClick }) {
             <div className={classNamePrefix}>
                 <img src={FontText} /><br></br>
                 <div className="text_container">{description} <br></br><br></br>
-                    <span className="title">{main} </span>
+                    <span className="title">{main} </span></div>
                     {
 
                         description_modal &&
-                        <div className="button button--piyo" style={{ scale: "0.8", left: "75px", top: "50px" }} onClick={onClick}>
+                        <div className="button button--piyo" style={{ scale: "0.8", position : "absolute", bottom : "5%" }}onClick={onClick}>
                             <div className="button__wrapper">
                                 <span className="button__text">{description_modal}</span>
                             </div>
@@ -30,7 +30,7 @@ function FontTextBackground({ description, main, description_modal, onClick }) {
                             </div>
                         </div>
                     }
-                </div>
+                
             </div>
 
         </>

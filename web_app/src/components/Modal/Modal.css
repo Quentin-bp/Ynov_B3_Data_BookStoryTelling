@@ -141,3 +141,7 @@
     transform: none;
     background: whitesmoke;
 }
+
+.link_modal{
+    font-weight: bold;
+}

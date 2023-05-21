@@ -6,3 +6,7 @@
     margin: auto;
     background-color: var(--beige);
 }
+.background-page:has(> .home_page)    {
+    margin : 0 !important;
+    background-color: var(--red);
+}
