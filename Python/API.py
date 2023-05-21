@@ -74,7 +74,7 @@ async def researchBooks(data: Research):
     apiUrl = "https://www.googleapis.com/books/v1/volumes?q="
 
     apiUrl = apiUrl + data.labels
-    apiUrl += "&orderBy=newest&printType=books&maxResults=12"
+    apiUrl += "&printType=books&maxResults=12"
     print(apiUrl)
     response = requests.get(apiUrl)
     return response.json()
